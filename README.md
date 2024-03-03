@@ -9,7 +9,8 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-SERVER SIDE 
+SERVER SIDE
+
 ![Screenshot 2024-03-03 185056](https://github.com/Akshaya-SK/2a_Stop_and_Wait_Protocol/assets/149347593/9d913ff9-e9fe-43e0-b193-c62c1e50e71d)
 
 CLIENT SIDE
